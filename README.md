@@ -35,3 +35,22 @@ prodesk-sprint-01/
 ├── style.css
 ├── script.js
 └── README.md
+
+## Live Demo
+
+[View Live Website](https://prodesk-sprint-01-hc3q0ckw3-vision-demo1.vercel.app/)
+
+## Screenshots
+
+### Home Page
+
+![Prodesk IT Home Page](home.png)
+
+### Services and Footer
+
+![Prodesk IT Services](services.png)
+
+### Dark Mode
+
+![Prodesk IT Dark Mode](dark-mode.png)
+
