@@ -6,7 +6,7 @@ This file records the AI assistance used during the development of Prodesk IT Sp
 
 1. Used AI to understand the Sprint 01 requirements and divide the task into smaller parts.
 
-2. Used AI-generated code examples for the HTML, CSS, and JavaScript structure of the landing page, which I copied, edited, and tested in VS Code.
+2. Used AI-generated code examples for the HTML, CSS, and JavaScript structure of the landing page, which I copied, understood , edited, and tested in VS Code.
 
 3. Used AI guidance for responsive design using CSS Flexbox, Grid, and media queries.
 
